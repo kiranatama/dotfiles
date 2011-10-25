@@ -1,0 +1,9 @@
+--- 
+:sources: 
+- http://192.168.0.8/gems/
+:verbose: true
+gem: --no-ri --no-rdoc
+:update_sources: true
+:backtrace: false
+:bulk_threshold: 1000
+:benchmark: false
