@@ -1,6 +1,8 @@
 --- 
 :sources: 
 - http://192.168.0.8/gems/
+- http://gems.rubyforge.org
+- http://gems.github.com
 :verbose: true
 gem: --no-ri --no-rdoc
 :update_sources: true
